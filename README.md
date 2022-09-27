@@ -1,2 +1,2 @@
 # FE_Shark_App
-website:https://github.com/IrinaPash/FE_Shark_App.git
+WEBSITE: https://irinapash.github.io/FE_Shark_App/
